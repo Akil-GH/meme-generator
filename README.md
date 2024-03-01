@@ -1,4 +1,4 @@
-Generates Random meme template which a can be modified by adding top text and Bottom text.
+Generates Random meme template image which a can be modified by adding Top text and Bottom text.
 
 Deployment - https://meme-generatorx.netlify.app/
 
